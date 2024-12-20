@@ -1,0 +1,10 @@
+C:\Users\Gut\source\repos\TesteWondowsForms\obj\Debug\TesteWondowsForms.csproj.AssemblyReference.cache
+C:\Users\Gut\source\repos\TesteWondowsForms\obj\Debug\TesteWondowsForms.Properties.Resources.resources
+C:\Users\Gut\source\repos\TesteWondowsForms\obj\Debug\TesteWondowsForms.csproj.GenerateResource.cache
+C:\Users\Gut\source\repos\TesteWondowsForms\obj\Debug\TesteWondowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Gut\source\repos\TesteWondowsForms\obj\Debug\TesteWindowsForms.Form1.resources
+C:\Users\Gut\source\repos\TesteWondowsForms\bin\Debug\TesteWondowsForms.exe.config
+C:\Users\Gut\source\repos\TesteWondowsForms\bin\Debug\TesteWondowsForms.exe
+C:\Users\Gut\source\repos\TesteWondowsForms\bin\Debug\TesteWondowsForms.pdb
+C:\Users\Gut\source\repos\TesteWondowsForms\obj\Debug\TesteWondowsForms.exe
+C:\Users\Gut\source\repos\TesteWondowsForms\obj\Debug\TesteWondowsForms.pdb
